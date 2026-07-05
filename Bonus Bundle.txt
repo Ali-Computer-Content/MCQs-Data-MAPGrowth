@@ -1,0 +1,100 @@
+1::What is the value of the digit 5 in 3,542?::5::50::500::5000::C::The digit 5 is in the hundreds place, so its value is 500.
+2::Which fraction is equal to 1/2?::2/4::3/4::1/4::2/3::A::2/4 simplifies to 1/2.
+3::What is 8 × 7?::54::56::64::48::B::8 multiplied by 7 equals 56.
+4::Choose the synonym of "begin".::Start::End::Stop::Finish::A::Start means the same as begin.
+5::Which sentence is correct?::She go to school.::She goes to school.::She going to school.::She gone to school.::B::The singular subject 'she' takes 'goes'.
+6::What is 72 ÷ 8?::7::8::9::10::C::72 divided by 8 equals 9.
+7::Round 486 to the nearest hundred.::400::450::500::600::C::486 rounds up to 500.
+8::Which shape has three sides?::Square::Rectangle::Triangle::Circle::C::A triangle has three sides.
+9::What is the main idea of a story?::The title::The author::The central message::The last sentence::C::The main idea is what the story is mostly about.
+10::What is 125 + 248?::363::373::383::393::B::125 + 248 = 373.
+11::Which word is an antonym of "hot"?::Warm::Cold::Boiling::Heat::B::Cold is the opposite of hot.
+12::How many minutes are in 2 hours?::60::90::120::180::C::2 × 60 = 120 minutes.
+13::What is the area of a rectangle with length 6 and width 4?::10::20::24::28::C::Area = length × width = 24.
+14::Which word is a noun?::Run::Blue::School::Quickly::C::School is a noun.
+15::What is 9 × 9?::72::81::90::99::B::9 × 9 = 81.
+16::Which punctuation ends a question?::.::!::?::::C::Questions end with a question mark.
+17::What fraction of a pizza remains if 2 of 8 slices are eaten?::2/8::4/8::6/8::8/8::C::6 of 8 slices remain.
+18::What is 400 + 250?::550::650::750::850::B::400 + 250 = 650.
+19::Which word means "very large"?::Tiny::Huge::Small::Little::B::Huge means very large.
+20::What is the perimeter of a square with side length 4?::8::12::16::20::C::Perimeter = 4 × 4 = 16.
+21::Which sentence is a complete sentence?::Running fast.::The dog barked loudly.::In the park.::Very happy.::B::It contains a subject and predicate.
+22::What is 1/4 + 1/4?::1/2::1/3::2/3::1::A::1/4 + 1/4 = 2/4 = 1/2.
+23::Which number is greatest?::999::1001::998::1000::B::1001 is the largest.
+24::What does a dictionary provide?::Maps::Word meanings::Pictures only::Stories::B::Dictionaries define words.
+25::What is 36 ÷ 6?::5::6::7::8::B::36 divided by 6 equals 6.
+26::Which shape has no corners?::Square::Triangle::Circle::Rectangle::C::A circle has no corners.
+27::What is 250 - 75?::175::185::195::165::A::250 - 75 = 175.
+28::Choose the correct spelling.::Becaus::Because::Beacause::Becose::B::Because is spelled correctly.
+29::What is 12 × 5?::50::55::60::65::C::12 × 5 = 60.
+30::What is the purpose of a title?::Tell the main topic::End the story::Give answers::Show pictures::A::A title tells what the text is about.
+31::How many sides does a hexagon have?::5::6::7::8::B::A hexagon has six sides.
+32::What is 3/8 + 2/8?::4/8::5/8::6/8::7/8::B::Add numerators when denominators are equal.
+33::Which word is a verb?::Jump::Ball::Blue::Happy::A::Jump is an action word.
+34::What is 90 ÷ 10?::8::9::10::11::B::90 ÷ 10 = 9.
+35::Which sentence uses correct capitalization?::my dog is brown.::My dog is brown.::My Dog is brown.::my Dog is Brown.::B::Sentences begin with a capital letter.
+36::What is 75 + 125?::180::190::200::210::C::75 + 125 = 200.
+37::Which is a mammal?::Fish::Bird::Dog::Lizard::C::Dogs are mammals.
+38::What is the value of 6 in 6,234?::6::60::600::6000::D::The 6 is in the thousands place.
+39::Which word best completes: "The sun is very ___."::cold::bright::wet::soft::B::Bright correctly describes the sun.
+40::What is 7 × 6?::36::42::48::56::B::7 × 6 = 42.
+41::What is the nearest ten to 84?::80::90::70::85::A::84 rounds to 80.
+42::Which sentence is a question?::I like pizza.::Do you like pizza?::Please eat pizza.::Pizza is tasty.::B::Questions ask something.
+43::What is 500 - 225?::265::275::285::295::B::500 - 225 = 275.
+44::How many months are in a year?::10::11::12::13::C::A year has 12 months.
+45::Which word is an adjective?::Run::Quickly::Happy::Jump::C::Happy describes a noun.
+46::What is 4 × 12?::44::46::48::52::C::4 × 12 = 48.
+47::Which fraction is largest?::1/2::1/4::1/8::1/10::A::1/2 is the largest among these fractions.
+48::What is the main purpose of a paragraph?::Group related ideas::Draw pictures::Make lists only::Create titles::A::Paragraphs organize related information.
+49::What is 15 + 17?::30::31::32::33::C::15 + 17 = 32.
+50::Which planet is known as the Red Planet?::Earth::Venus::Mars::Jupiter::C::Mars is called the Red Planet due to its reddish appearance.
+51::What is 18 + 24?::40::41::42::43::C::18 + 24 = 42.
+52::Which word is a synonym for "tiny"?::Huge::Small::Tall::Wide::B::Small has the same meaning as tiny.
+53::How many sides does an octagon have?::6::7::8::9::C::An octagon has eight sides.
+54::What is 56 ÷ 7?::6::7::8::9::C::56 divided by 7 equals 8.
+55::Which sentence uses correct punctuation?::I like cats dogs and birds.::I like cats, dogs, and birds.::I like cats dogs, and birds.::I like, cats dogs and birds.::B::Items in a series should be separated by commas.
+56::What is 3/5 of 10?::5::6::7::8::B::3/5 × 10 = 6.
+57::What is the capital letter in this word: apple?::a::A::p::P::B::The capital form of a is A.
+58::What is 200 + 350?::500::550::600::650::B::200 + 350 = 550.
+59::Which shape has exactly four sides?::Triangle::Circle::Quadrilateral::Pentagon::C::A quadrilateral has four sides.
+60::What is the opposite of "early"?::Fast::Late::Soon::Quick::B::Late is the opposite of early.
+61::What is 11 × 3?::30::33::36::39::B::11 × 3 = 33.
+62::Which word is spelled correctly?::Freind::Friend::Frend::Frind::B::Friend is the correct spelling.
+63::How many centimeters are in 1 meter?::10::50::100::1000::C::1 meter equals 100 centimeters.
+64::What is 90 - 27?::63::64::65::66::A::90 - 27 = 63.
+65::Which sentence contains a proper noun?::The dog barked.::The city is large.::Ali visited Lahore.::The book is new.::C::Ali and Lahore are proper nouns.
+66::What is the value of 9 in 9,421?::9::90::900::9000::D::The 9 is in the thousands place.
+67::Which fraction is smallest?::1/2::1/3::1/4::1/5::D::1/5 is the smallest fraction listed.
+68::What is 14 × 4?::52::54::56::58::C::14 × 4 = 56.
+69::What does an author do?::Reads books::Writes books::Sells books::Draws maps::B::An author writes books or stories.
+70::What is the perimeter of a rectangle with length 8 and width 2?::16::18::20::22::C::Perimeter = 2 × (8 + 2) = 20.
+71::Which word is an antonym for "strong"?::Powerful::Weak::Large::Heavy::B::Weak is the opposite of strong.
+72::What is 5 × 11?::50::55::60::65::B::5 × 11 = 55.
+73::How many days are in a week?::5::6::7::8::C::A week has 7 days.
+74::Choose the correct sentence.::they are playing.::They are playing.::they Are Playing.::They Are playing.::B::Sentences begin with a capital letter.
+75::What is 2/3 + 1/3?::1::2::3/3::4/3::A::2/3 + 1/3 = 3/3 = 1.
+76::Which animal lays eggs?::Dog::Cat::Chicken::Horse::C::Chickens lay eggs.
+77::What is 75 ÷ 5?::10::15::20::25::B::75 divided by 5 equals 15.
+78::What is the main purpose of a dictionary?::Tell stories::Give directions::Define words::Solve math problems::C::A dictionary provides word meanings.
+79::What is 320 + 180?::400::450::500::550::C::320 + 180 = 500.
+80::Which shape has five sides?::Triangle::Rectangle::Pentagon::Hexagon::C::A pentagon has five sides.
+81::Which word best completes the sentence? "The baby was ___."::sleep::sleeping::slepting::sleeped::B::Sleeping is the correct verb form.
+82::What is 13 × 6?::72::76::78::80::C::13 × 6 = 78.
+83::How many hours are in one day?::12::18::24::30::C::A day contains 24 hours.
+84::Which fraction is equivalent to 3/6?::1/2::1/3::2/3::3/4::A::3/6 simplifies to 1/2.
+85::What is 500 - 180?::300::310::320::330::C::500 - 180 = 320.
+86::Which word is a verb?::Table::Jump::Blue::Happy::B::Jump is an action word.
+87::What is the area of a square with side length 5?::10::20::25::30::C::Area = side × side = 25.
+88::What is the opposite of "inside"?::Near::Below::Outside::Above::C::Outside is the opposite of inside.
+89::What is 8 × 12?::84::92::96::104::C::8 × 12 = 96.
+90::Which sentence is an exclamation?::Where are you?::I am here.::What a beautiful day!::Please sit down.::C::Exclamations express strong feeling.
+91::What is 600 + 275?::825::850::875::900::C::600 + 275 = 875.
+92::Which planet do humans live on?::Mars::Earth::Venus::Jupiter::B::Humans live on Earth.
+93::How many vertices does a triangle have?::2::3::4::5::B::A triangle has 3 vertices.
+94::What is 64 ÷ 8?::6::7::8::9::C::64 divided by 8 equals 8.
+95::Choose the correct spelling.::Beautifull::Beautifal::Beautiful::Beutiful::C::Beautiful is spelled correctly.
+96::What is 1/10 of 100?::1::5::10::20::C::1/10 × 100 = 10.
+97::Which word is a synonym for "smart"?::Clever::Slow::Lazy::Weak::A::Clever has a similar meaning to smart.
+98::What is 27 + 36?::61::62::63::64::C::27 + 36 = 63.
+99::What is the main idea of a paragraph?::A small detail::The central point::The title only::The last word::B::The main idea is the most important point.
+100::What is 1000 - 425?::555::565::575::585::C::1000 - 425 = 575.
